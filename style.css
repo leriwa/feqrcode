@@ -1,0 +1,20 @@
+body {
+  background-color: #d5e1ef;
+}
+
+.qr-container {
+  margin: auto;
+  margin-top: 10%;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 7px 7px 32px rgba(0, 0, 0, 0.18);
+  height: 497px;
+  width: 320px;
+}
+
+.qr-code {
+    width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
